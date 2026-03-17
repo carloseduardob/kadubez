@@ -8,6 +8,6 @@
 
 - 💻 técnico em informática
 - cursando engenharia de software
-- tenho 19 anos
+- tenho 20 anos
 - 🤓 conhecimento em JAVA com springboot, postgresql, testes de integração.
 - 💰 estagiario em desenvolvimento na thomson reuters.
