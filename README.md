@@ -1,6 +1,5 @@
 ### Oi! Eu sou Carlos Eduardo
 <div>
-<a href= "https://instagram.com/kadubez_/">
 <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
 
 </a>
